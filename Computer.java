@@ -1,6 +1,5 @@
 /*****************************************
- * Xin Ying Weng
- * xw2600
+ * @Rennah Weng
  * 4/10/19
  * 
  * Human.java - Human class for human player
