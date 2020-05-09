@@ -1,7 +1,5 @@
 /*****************************************
- * Xin Ying Weng
- * xw2600
- * 4/10/19
+ * @Rennah Weng
  * 
  * Game.java - Game class for Nim game
  * Human player plays against computer player.
